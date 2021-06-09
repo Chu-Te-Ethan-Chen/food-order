@@ -15,7 +15,7 @@ npm install
 npm start
 ```
 
-Learning: [useRef](https://reactjs.org/docs/hooks-reference.html#useref), [React.forwardRef()](https://reactjs.org/docs/forwarding-refs.html), [React Context](https://reactjs.org/docs/context.html), [array.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce), [useReducer](https://reactjs.org/docs/hooks-reference.html#usereducer), [array.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter), useEffect, [useState](https://reactjs.org/docs/hooks-reference.html#usestate)
+Learning: [useRef](https://reactjs.org/docs/hooks-reference.html#useref), [React.forwardRef()](https://reactjs.org/docs/forwarding-refs.html), [React Context](https://reactjs.org/docs/context.html), [array.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce), [useReducer](https://reactjs.org/docs/hooks-reference.html#usereducer), [array.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter), [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect), [useState](https://reactjs.org/docs/hooks-reference.html#usestate)
 
 Implementation:
 
